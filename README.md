@@ -72,6 +72,22 @@ Controls: income, alcohol law, speed limits, drinking age; state & year fixed ef
 | drinkage           | Legal drinking age ≥ 21 |
 
 ---
+## 📚 References
+
+1. **Fatality Analysis Reporting System (FARS) Database**  
+   U.S. Department of Transportation, National Highway Traffic Safety Administration (NHTSA)  
+   🔗 <https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars>
+
+2. **Cohen, Alma & Einav, Liran** (2003)  
+   *The Effects of Mandatory Seat Belt Laws on Driving Behavior and Traffic Fatalities*  
+   _The Review of Economics and Statistics_, **85** (4), 828–843  
+   🔗 <https://doi.org/10.1162/003465303772815786>
+
+3. **Stock, James H. & Watson, Mark W.** (2007)  
+   *Introduction to Econometrics*  
+   2nd Edition, Pearson Education • ISBN 9780321278876
+
+---
 
 ## 🧪 Requirements
 
@@ -91,20 +107,7 @@ sandwich
 
 ---
 
-## 📚 References
 
-1. **Fatality Analysis Reporting System (FARS) Database**  
-   U.S. Department of Transportation, National Highway Traffic Safety Administration (NHTSA)  
-   🔗 <https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars>
-
-2. **Cohen, Alma & Einav, Liran** (2003)  
-   *The Effects of Mandatory Seat Belt Laws on Driving Behavior and Traffic Fatalities*  
-   _The Review of Economics and Statistics_, **85** (4), 828–843  
-   🔗 <https://doi.org/10.1162/003465303772815786>
-
-3. **Stock, James H. & Watson, Mark W.** (2007)  
-   *Introduction to Econometrics*  
-   2nd Edition, Pearson Education • ISBN 9780321278876
 
 
 
