@@ -88,3 +88,12 @@ stargazer
 fixest
 lmtest
 sandwich
+
+📚 References
+FARS Database – NHTSA
+
+Cohen, A., & Einav, L. (2003). The Effects of Mandatory Seat Belt Laws on Driving Behavior and Traffic Fatalities.
+
+Stock, J.H., & Watson, M.W. (2007). Introduction to Econometrics.
+
+
