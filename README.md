@@ -89,6 +89,7 @@ fixest
 lmtest
 sandwich
 
+---
 
 ## 📚 References
 
