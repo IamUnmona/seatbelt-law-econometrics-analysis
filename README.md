@@ -91,14 +91,14 @@ sandwich
 
 ## 📚 References
 
-1. **Fatality Analysis Reporting System (FARS) Database** – U.S. Department of Transportation, National Highway Traffic Safety Administration (NHTSA).  
+- 1. **Fatality Analysis Reporting System (FARS) Database** – U.S. Department of Transportation, National Highway Traffic Safety Administration (NHTSA).  
    [https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars)
 
-2. **Cohen, Alma and Einav, Liran** (2003). *The Effects of Mandatory Seat Belt Laws on Driving Behavior and Traffic Fatalities.*  
+- 2. **Cohen, Alma and Einav, Liran** (2003). *The Effects of Mandatory Seat Belt Laws on Driving Behavior and Traffic Fatalities.*  
    The Review of Economics and Statistics, 85(4): 828–843.  
    [https://doi.org/10.1162/003465303772815786](https://doi.org/10.1162/003465303772815786)
 
-3. **Stock, James H., and Watson, Mark W.** (2007). *Introduction to Econometrics.*  
+- 3. **Stock, James H., and Watson, Mark W.** (2007). *Introduction to Econometrics.*  
    2nd Edition, Pearson Education. ISBN: 9780321278876.
 
 
